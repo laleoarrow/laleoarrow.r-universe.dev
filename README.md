@@ -22,7 +22,7 @@ install.packages('leo.basic')  # Core utilities
 install.packages('leo.sc')     # Single-cell analysis tools
 ```
 
-**All dependencies will be automatically installed**, including GitHub-only packages like `annotables`, `MRlap`, and `TwoSampleMR`!
+**All dependencies will be automatically installed**, including GitHub-only packages like `annotables` and `TwoSampleMR`!
 
 ## 🎯 Why Use This R-Universe?
 
@@ -39,7 +39,6 @@ install.packages('leo.sc')     # Single-cell analysis tools
 | [**leo.gwas**](https://github.com/laleoarrow/leo.gwas) | [![](https://laleoarrow.r-universe.dev/badges/leo.gwas)](https://laleoarrow.r-universe.dev/leo.gwas) | GWAS analysis and visualization tools |
 | [**leo.sc**](https://github.com/laleoarrow/leo.sc) | [![](https://laleoarrow.r-universe.dev/badges/leo.sc)](https://laleoarrow.r-universe.dev/leo.sc) | Single-cell RNA-seq analysis utilities |
 | [**annotables**](https://github.com/stephenturner/annotables) | [![](https://laleoarrow.r-universe.dev/badges/annotables)](https://laleoarrow.r-universe.dev/annotables) | Gene annotation data (dependency) |
-| [**MRlap**](https://github.com/n-mounier/MRlap) | [![](https://laleoarrow.r-universe.dev/badges/MRlap)](https://laleoarrow.r-universe.dev/MRlap) | Mendelian Randomization (dependency) |
 | [**TwoSampleMR**](https://github.com/MRCIEU/TwoSampleMR) | [![](https://laleoarrow.r-universe.dev/badges/TwoSampleMR)](https://laleoarrow.r-universe.dev/TwoSampleMR) | Two-sample MR methods (dependency) |
 
 ## 🚀 Permanent Setup (Recommended)
