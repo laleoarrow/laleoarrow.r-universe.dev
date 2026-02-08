@@ -1,5 +1,4 @@
 [
   { "package": "leo.gwas", "url": "https://github.com/laleoarrow/leo.gwas" },
-  { "package": "leo.sc",   "url": "https://github.com/laleoarrow/leo.sc" },
-  { "package": "leo.ukb",  "url": "https://github.com/laleoarrow/leo.ukb" }
+  { "package": "leo.sc",   "url": "https://github.com/laleoarrow/leo.sc" }
 ]
