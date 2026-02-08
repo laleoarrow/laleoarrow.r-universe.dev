@@ -1,8 +1,22 @@
 [
-  { "package": "leo.basic", "url": "https://github.com/laleoarrow/leo.basic" },
-  { "package": "leo.gwas",  "url": "https://github.com/laleoarrow/leo.gwas" },
-  { "package": "leo.sc",    "url": "https://github.com/laleoarrow/leo.sc" },
-  { "package": "annotables", "url": "https://github.com/stephenturner/annotables" },
-  { "package": "MRlap", "url": "https://github.com/n-mounier/MRlap" },
-  { "package": "TwoSampleMR", "url": "https://github.com/MRCIEU/TwoSampleMR" }
+  {
+    "package": "leo.basic",
+    "url": "https://github.com/laleoarrow/leo.basic"
+  },
+  {
+    "package": "leo.gwas",
+    "url": "https://github.com/laleoarrow/leo.gwas"
+  },
+  {
+    "package": "leo.sc",
+    "url": "https://github.com/laleoarrow/leo.sc"
+  },
+  {
+    "package": "annotables",
+    "url": "https://github.com/stephenturner/annotables"
+  },
+  {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/MRCIEU/TwoSampleMR"
+  }
 ]
